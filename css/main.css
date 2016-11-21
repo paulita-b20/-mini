@@ -1,1 +1,113 @@
 /* Inserte su codigo aqui */
+
+/* Inserte su codigo aqui */
+
+* {
+	font-family: times;
+}
+
+/***********+ Aqui comienza seccion header **********/ 
+.firstcontainer {
+	background-color: #FFD700;
+	width: 100%;
+	height:700px;
+	color:white;
+}
+
+.sumate {
+	background-color: #ffb366;
+	width: 100px;
+	height: 40px;
+	color: white;
+	font-size: 15px;
+	text-transform: uppercase;
+	border: none;
+	margin: 50px 0 0 100px;
+}
+
+header nav ul {
+	list-style: none;
+
+}
+
+header nav ul li {
+	display: inline-block;
+	margin-left: 40px;
+	padding: 20px
+}
+.hero {
+	margin: 200px;
+	text-align: center;
+}
+
+.hero h2 {
+	font-weight: bold;
+}
+
+/************* Aqui comienza section *************/
+.secondcontainer {
+	padding-top: 100px;
+	background-color: #ebebeb ;
+}
+.box{
+	width: 350px;
+	margin: 0 auto;
+	padding-bottom: 20px;
+}
+
+.outbox{
+	background-color: #fff;
+	height: 500px;
+	width: 480px;
+	padding: 20px;
+	color: #999999;
+	text-align: left;
+}
+
+.outbox h2{
+	color: #666666;
+	font-weight: bold;
+}
+
+.outbox p{
+	text-align: left;
+	font-size: 15px;
+}
+
+.outbox button {
+	background-color: #ffcc00;
+	color: white;
+	width: 100px;
+	height: 30px;
+	font-size: 15px;
+	text-transform: uppercase;
+	border: none;
+	margin: 0 auto;
+	text-decoration: none;
+    display:block;
+}
+
+.inbox{
+	background-color:#d3d3d3;
+	height: 300px;
+	width: 300px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+.inbox span{
+	color: #919191;
+	font-size: 20px;
+	line-height: 300px;
+	vertical-align: middle;
+}
+
+/************* Aqui comienza footer *************/
+footer {
+	background-color: #333333;
+	color: #fff;
+	padding: 20px 0 30px 100px;
+}
+
+
+    
